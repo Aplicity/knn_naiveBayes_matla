@@ -1,0 +1,2 @@
+# knn_naiveBayes_matla
+Matlab上的KNN和朴素贝叶斯
